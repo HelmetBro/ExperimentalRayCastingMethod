@@ -1,0 +1,33 @@
+
+#----------------------------- Global Properties ----------------------------#
+
+/outputDir:bin/$(Platform)
+/intermediateDir:obj/$(Platform)
+/platform:Android
+/config:
+/profile:Reach
+/compress:False
+
+#-------------------------------- References --------------------------------#
+
+
+#---------------------------------- Content ---------------------------------#
+
+#begin Character.png
+/copy:Character.png
+
+#begin TestBullets.png
+/copy:TestBullets.png
+
+#begin TestWall.png
+/copy:TestWall.png
+
+#begin TestTriangle.png
+/copy:TestTriangle.png
+
+#begin objectiveBox.png
+/copy:objectiveBox.png
+
+#begin objectiveCircle.png
+/copy:objectiveCircle.png
+
